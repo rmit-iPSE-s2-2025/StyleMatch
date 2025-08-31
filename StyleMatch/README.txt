@@ -1,7 +1,7 @@
 StyleMatch iOS App
 
 Team Members:
-S40270498 (Manan Chaudhary)
+S4027498 (Manan Chaudhary)
 GitHub Repository:
 https://github.com/rmit-iPSE-s2-2025/StyleMatch
 
