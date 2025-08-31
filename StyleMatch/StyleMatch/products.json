@@ -1,0 +1,23 @@
+[
+  {
+    "id": "B7A1C9F0-3E3E-4F9E-9C1A-8D0A1B2C3D4E",
+    "name": "Oversized Hoodie",
+    "brand": "LOAM",
+    "price": 79.0,
+    "imageName": "hoodie_black",
+    "colors": ["black"],
+    "tags": ["hoodie","black","oversized","streetwear","cotton","unisex"],
+    "gender": "unisex"
+  },
+  {
+    "id": "0E5E6F70-1B2C-3D4E-5F60-718293A4B5C6",
+    "name": "Relaxed Fit Tee",
+    "brand": "CoreBasics",
+    "price": 29.0,
+    "imageName": "tee_white",
+    "colors": ["white"],
+    "tags": ["tshirt","white","relaxed","casual","cotton","unisex"],
+    "gender": "unisex"
+  }
+]
+
